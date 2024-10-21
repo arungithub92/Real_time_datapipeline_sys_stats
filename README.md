@@ -113,4 +113,4 @@ you can watch the demo video <a href="https://youtu.be/4bI7HyppGG8" target="_bla
 For any inquiries or further information, please contact:
 - **Name:** G Arun Kumar
 - **Email:** arunreturns04@gmail.com
-- **LinkedIn:** <a href="https://www.linkedin.com/in/arunreturns04/" target="_blank">Aymane Maghouti</a><br>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/arunreturns04/" target="_blank">G Arun Kumar</a><br>
